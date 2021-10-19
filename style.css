@@ -1,0 +1,15 @@
+p {
+    margin: 0!important;
+}
+
+.img-fit {
+    object-fit: contain;
+}
+
+.rem1p3 {
+    font-size: 1.3rem;
+}
+
+.bg-blue {
+    background-color: rgb(39, 82, 138);
+}
