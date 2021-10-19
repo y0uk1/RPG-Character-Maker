@@ -2,4 +2,4 @@
 
 https://y0uk1.github.io/RPG-Character-Maker/
 
-You can make characters.
+You can make game characters.
